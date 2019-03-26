@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "umi dev",
-    "build": "umi bluld"
+    "build": "umi build"
   },
   "keywords": [],
   "author": "",
